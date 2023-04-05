@@ -1,3 +1,4 @@
+### this code was executed in jupyter notebook and exported as .py files so you may need to modify it to run as python script.
 import numpy as np                                                                                     
 import pandas as pd                                                                                    
 import seaborn as sns                                                                                  
@@ -32,7 +33,7 @@ print('Datasetin ilk okunduÄŸu hali: \n',df_value)
 print('Datasetin ilk (row,Column) sayÄ±sÄ±: {} '.format(df.shape))                                     
 print('Datasetin Labelindeki DoS daldÄ±rÄ±larÄ±nÄ±n birleÅŸtirilmesi ve gÃ¼rÃ¼ltÃ¼nÃ¼n azaltÄ±lmasÄ±:\n',df2_value)                                                                                           
 print('Datasetin son (row,Column) sayÄ±sÄ±: {} '.format(df2.shape))                                    
-dataset=pd.read_csv('dataset.csv')                                                                     
+dataset=pd.read_csv('dataset.csv')                                     
 dataset                                                                                                
 DoS_df1=dataset[dataset[' Label']=='BENIGN']                                                           
 DoS_df=DoS_df1.append(dataset[dataset[' Label']=='DoS'])                                               
