@@ -31,3 +31,6 @@ Codes and diagrams for the paper entitled "Optimization of Predictive Performanc
 - Intel core i5 processor
 - 64 bit Windows 10 operating system
 - 16 GB RAM
+
+### Note
+These codes are obtained by downloading .py files from original jupyter notebooks. While reproducing the results make sure you run these codes in a separate Jupyter Notebook.
