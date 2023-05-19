@@ -19,6 +19,7 @@ Codes and diagrams for the paper entitled "Optimization of Predictive Performanc
 - DNN
 - CNN
 - LSTM
+- RNN
 
 ### Evaluation Methods
 - Accuracy
@@ -28,7 +29,7 @@ Codes and diagrams for the paper entitled "Optimization of Predictive Performanc
 
 ### Machine Specifications used for experimentation
 - HP 840 G2 laptop
-- Intel core i5 processor
+- Intel core i5 processor (5th generation)
 - 64 bit Windows 10 operating system
 - 16 GB RAM
 
