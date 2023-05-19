@@ -2,7 +2,7 @@
 
 ![Javatpoint](https://zenodo.org/badge/DOI/10.5281/zenodo.7801597.svg)  
 
-Codes and diagrams for the paper entitled "Optimization of Predictive Performance of Intrusion Detection System Using Hybrid Ensemble Model for Secure Systems"
+Codes for the paper entitled "Optimization of Predictive Performance of Intrusion Detection System Using Hybrid Ensemble Model for Secure Systems"
 
 ### Following datasets were used in this study.
 
