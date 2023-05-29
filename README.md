@@ -17,9 +17,9 @@ Codes for the paper entitled "Optimization of Predictive Performance of Intrusio
 - SVM
 - MLP
 - DNN
-- CNN
-- LSTM
-- RNN
+- CNN (4 Conv1D layers)
+- LSTM (3 LSTM layers)
+- RNN (3 RNN layers)
 
 ### Evaluation Methods
 - Accuracy
